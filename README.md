@@ -5,12 +5,12 @@ Getting started
 
 1. Clone the repository
 
-```
+    ``` sh
     git clone git@github.com:fieg/library-bootstrap.git <your-library-dirname>
-```
+    ```
 
 2. Call make
 
-```
+    ``` sh
     make
-```
+    ```
