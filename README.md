@@ -12,5 +12,6 @@ Getting started
 2. Call make.
 
     ``` sh
+    cd <your-library-dirname>
     make
     ```
