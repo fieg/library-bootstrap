@@ -1,10 +1,18 @@
 {
-    "name": "fieg/library-bootstrap",
-    "license": "MIT",
-    "minimum-stability": "stable",
-    "require": {
-    },
-    "require-dev": {
-        "phpunit/phpunit": "~4.1"
+  "name": "fieg/library-bootstrap",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+      "php": ">=5.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fieg\\": "src"
     }
+  }
 }
