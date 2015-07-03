@@ -12,7 +12,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Fieg\\": "src"
+      "Fieg\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Fieg\\Tests\\": "tests/"
     }
   }
 }
